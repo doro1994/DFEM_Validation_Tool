@@ -1,1 +1,1 @@
-Various upport functions for DFEM Validation Tool
+Various support functions for DFEM Validation Tool
